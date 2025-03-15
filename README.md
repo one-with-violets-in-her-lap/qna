@@ -4,7 +4,7 @@
 
 survey management website with responsive modern interface and advanced functionality like statistics and form builder
 
-[:eye: view the app](https://try-qna.vercel.app/)
+[:eye: view the app](https://qna.sorry.run/)
 
 https://github.com/crucials/qna/assets/83793845/a7c2953e-50be-46e8-bc93-3e31b50c9f83
 
